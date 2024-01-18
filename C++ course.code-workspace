@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../C++ course"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.mouseWheelZoom": true,
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
